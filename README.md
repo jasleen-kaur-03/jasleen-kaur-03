@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jasleen Kaur 👋
 
-<!--
-**jasleen-kaur-03/jasleen-kaur-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | Aspiring Data Engineer
 
-Here are some ideas to get you started:
+I'm passionate about SQL, Data Warehousing, ETL, Data Modeling, and Python. I enjoy building real-world data engineering projects and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- SQL Server
+- SQL
+- Data Warehousing
+- ETL
+- Data Modeling
+- Python (Learning)
+
+📫 Connect with me:
+- LinkedIn: https://linkedin.com/in/jasleen03
+- Email: jasleenkaur6039@gmail.com
